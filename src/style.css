@@ -60,3 +60,13 @@ footer{background:#fff;border-top:1px solid #e5e5ea;padding:2.5rem 0 2rem;font-s
 .priv{font-size:.78rem;color:var(--mut);margin:.5rem 0 0}.nl-form output{font-weight:600;color:#1d1d1f}.ml-form.done output{color:#1a7f37}
 .sb-form{max-width:480px;margin:1rem auto 0}.sb-form .nl-form label{text-align:left}.nl-form button[disabled]{opacity:.6}
 .feature.sb-form{max-width:720px;margin:2rem auto 0;padding:2rem 1.5rem}.feature.sb-form h2{margin-top:0}
+.trust{display:inline-block;font-size:.95rem;font-weight:600;color:#0058b0;background:#e8f1fc;border-radius:980px;padding:.35rem .9rem;margin:0 0 .6rem}
+.urgent{display:block;background:#1d1d1f;color:#f5f5f7;border-radius:24px;padding:2.25rem 1.75rem;margin:0 0 1.5rem;text-align:center}.urgent:hover{text-decoration:none;opacity:.96}.urgent h2{color:#fff;margin:.6rem 0 .3rem}.urgent p{color:#d2d2d7;margin:.2rem 0 .8rem;font-size:1.15rem}.urgent .more-link{color:#6cb4ff;font-weight:600}
+.badge.warn{background:#fff1e0;color:#8a4b00;margin:0}
+.sub.left{margin-left:auto;margin-right:auto;max-width:720px;text-align:left}
+.sumcard{max-width:720px;margin:1.5rem auto;display:grid;gap:12px}.sumcard div{background:#fff;border-radius:var(--r);box-shadow:var(--sh);padding:20px 24px}.sumcard strong{display:block;font-size:1.15rem;margin-bottom:.2rem}.sumcard span{color:var(--mut)}
+.steps li{margin-bottom:.8rem}
+.summary{text-align:center;background:#fff;border-radius:var(--r);padding:8px 0 4px}.summary .big{font-size:clamp(1.5rem,5vw,2.1rem);font-weight:700;letter-spacing:-.02em;margin:.2rem 0;line-height:1.15}.summary .money{font-size:clamp(2.2rem,8vw,3.4rem);font-weight:700;color:var(--ac);margin:.2rem 0;letter-spacing:-.03em}
+#result{max-width:720px}.share{text-align:center;margin:2rem auto 1rem;max-width:720px}.share h2{font-size:1.5rem}.share-links{display:flex;flex-wrap:wrap;gap:8px;justify-content:center}.share-links .chip{display:inline-flex;align-items:center;text-decoration:none}.share-out{display:block;color:var(--mut);margin-top:.5rem}
+.share .pill.lg{width:100%;max-width:420px}
+#result,.summary .big{scroll-margin-top:72px}
