@@ -1,0 +1,115 @@
+{
+ "code": "YT",
+ "province": "Yukon",
+ "last_checked": "2026-10-17",
+ "federal_note": "Federal programs (DTC, Child Disability Benefit, RDSP, Canada Child Benefit, Canada Disability Benefit for adults, Jordan's Principle, Inuit Child First) apply everywhere; see data/programs.json.",
+ "programs": [
+  {
+   "slug": "yt-cds",
+   "name": "Children's Disability Services (incl. autism supports)",
+   "gov": "Yukon (Health and Social Services)",
+   "category": "child-disability-family-support",
+   "what": "Help for kids under 19, like respite, counselling, and help at school or daycare. For autism, it can pay for ABA therapy. Kids 12 and under go first.",
+   "amount": "No fixed amount published; check the official page.",
+   "amount_verified": false,
+   "who": [
+    "Your child is under 19, lives in Yukon, and has a disability or may have autism."
+   ],
+   "steps": [
+    "You or a professional can refer your child. Call 867-393-7464 or 1-800-661-0408 ext. 7464.",
+    "A social worker meets with you."
+   ],
+   "docs": [],
+   "links": [
+    [
+     "Yukon: Find services if you have a disability",
+     "https://yukon.ca/en/health-and-wellness/care-services/find-services-if-you-have-disability"
+    ],
+    [
+     "Yukon: OT/PT for your disabled child",
+     "https://yukon.ca/en/health-and-wellness/care-services/get-occupational-therapy-or-physiotherapy-your-disabled-child"
+    ]
+   ],
+   "last_checked": "2026-10-17",
+   "nickname": "Yukon help for kids with disabilities",
+   "plain_language": true
+  },
+  {
+   "slug": "yt-social-assistance",
+   "name": "Social assistance",
+   "gov": "Yukon (Health and Social Services)",
+   "category": "disability-income",
+   "what": "Monthly money for basic costs if you don't have enough to live on.",
+   "amount": "No fixed amount published; check the official page.",
+   "amount_verified": false,
+   "who": [
+    "You live in Yukon and have low income."
+   ],
+   "steps": [
+    "Call your local social assistance office to book a meeting. In Whitehorse: 867-667-5674."
+   ],
+   "docs": [],
+   "links": [
+    [
+     "Yukon: Apply for social assistance",
+     "https://yukon.ca/en/apply-social-assistance"
+    ]
+   ],
+   "last_checked": "2026-10-17",
+   "nickname": "Yukon social assistance",
+   "plain_language": true
+  },
+  {
+   "slug": "jordans-principle",
+   "name": "Jordan's Principle (First Nations children)",
+   "gov": "Federal (Indigenous Services Canada)",
+   "category": "first-nations",
+   "what": "Money from the federal government for First Nations kids. It can pay for therapy, respite (a break for you while someone else cares for your child), talking devices, and equipment. It works in every province, on or off reserve.",
+   "amount": "Case by case; no fixed amount.",
+   "amount_verified": false,
+   "who": [
+    "Your child is First Nations and under 19"
+   ],
+   "steps": [
+    "Call 1-855-572-4453. The line is open 24 hours a day.",
+    "Or apply online on the Indigenous Services Canada website."
+   ],
+   "docs": [],
+   "links": [
+    [
+     "ISC: Jordan's Principle",
+     "https://www.sac-isc.gc.ca/eng/1568396042341/1568396159824"
+    ]
+   ],
+   "last_checked": "2026-10-17",
+   "nickname": "Jordan's Principle (help for First Nations kids)",
+   "plain_language": true
+  },
+  {
+   "slug": "inuit-child-first",
+   "name": "Inuit Child First Initiative",
+   "gov": "Federal (Indigenous Services Canada)",
+   "category": "first-nations",
+   "what": "Money from the federal government for Inuit kids. It can pay for therapy, tests, wheelchairs and other aids, rides to care, and respite (a break for you). It is free to ask.",
+   "amount": "Case by case; no fixed amount.",
+   "amount_verified": false,
+   "who": [
+    "Your child is Inuk"
+   ],
+   "steps": [
+    "Call 1-855-572-4453.",
+    "Or contact the Inuit Child First helper for your region."
+   ],
+   "docs": [],
+   "links": [
+    [
+     "ISC: Supporting Inuit children",
+     "https://www.sac-isc.gc.ca/eng/1536348095773/1536348148664"
+    ]
+   ],
+   "last_checked": "2026-10-17",
+   "nickname": "Inuit Child First (help for Inuit kids)",
+   "plain_language": true
+  }
+ ]
+}

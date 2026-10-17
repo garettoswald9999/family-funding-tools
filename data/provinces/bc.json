@@ -1,0 +1,250 @@
+{
+ "code": "BC",
+ "province": "British Columbia",
+ "last_checked": "2026-10-17",
+ "federal_note": "Federal programs (DTC, Child Disability Benefit, RDSP, Canada Child Benefit, Canada Disability Benefit for adults, Jordan's Principle, Inuit Child First) apply everywhere; see data/programs.json.",
+ "programs": [
+  {
+   "slug": "autism-funding",
+   "name": "BC Autism Funding (under 6, and ages 6 to 18)",
+   "gov": "BC (Ministry of Children and Family Development, or MCFD)",
+   "what": "Money to pay for autism therapy and support. This program ends March 31, 2027. Two new programs will replace it: the BC Children and Youth Disability Benefit (based on how much help your child needs) and the Disability Supplement (based on family income). You can still apply for Autism Funding until March 2027.",
+   "amount": "Under 6: up to $22,000 a year per child. This pays for approved therapists, workers trained to help your child, and family counselling. Ages 6 to 18: up to $6,000 a year per child. Up to 20% of that can go to training, travel and equipment. New Disability Benefit: $6,500, or up to $17,000 a year, based on your child’s needs. Disability Supplement: up to $6,000 a year, based on family income. First payments start July 2027. (gov.bc.ca, checked 2026-10-14.)",
+   "who": [
+    "Your child is under 19, lives in BC, and has an autism diagnosis from a qualified assessment.",
+    "For the new Disability Benefit: it’s based on how much help your child needs. Any diagnosis can count."
+   ],
+   "steps": [
+    "Get a diagnosis. You can use the free public BC Autism Assessment Network or a private assessor.",
+    "Send the Autism Funding form and the diagnosis to MCFD.",
+    "Pick providers from the RASP (Registry of Autism Service Providers, BC’s list of approved therapists).",
+    "Watch your mail for a letter from the ministry about moving to the Disability Benefit."
+   ],
+   "docs": [
+    "Diagnosis or assessment report",
+    "Your child’s BC Services Card (MSP)",
+    "Proof you live in BC"
+   ],
+   "links": [
+    [
+     "gov.bc.ca: How much funding is available",
+     "https://www2.gov.bc.ca/gov/content/health/managing-your-health/child-behaviour-development/support-needs/autism-spectrum-disorder/autism-funding/funding-amount"
+    ],
+    [
+     "gov.bc.ca: Financial supports for children with support needs",
+     "https://www2.gov.bc.ca/gov/content/health/managing-your-health/child-behaviour-development/support-needs/financial-supports"
+    ],
+    [
+     "gov.bc.ca: FAQ for families",
+     "https://www2.gov.bc.ca/gov/content/health/managing-your-health/child-behaviour-development/support-needs/faq-families-eligible-for-autism-funding"
+    ],
+    [
+     "Parent's Handbook (PDF, Apr 2026)",
+     "https://www2.gov.bc.ca/assets/gov/health/managing-your-health/autism/10690_parents_autism_guide_web_final_-_april_23_2026_1.pdf"
+    ]
+   ],
+   "category": "autism",
+   "last_checked": "2026-10-17",
+   "plain_language": true,
+   "nickname": "BC Autism Funding",
+   "amount_verified": true
+  },
+  {
+   "slug": "at-home-program",
+   "name": "At Home Program (Medical Benefits)",
+   "gov": "BC (MCFD)",
+   "what": "Helps kids who need a lot of help with daily life. It can cover medical equipment and supplies, orthotics (special braces or shoe inserts), hearing care, dental and eye care, therapies, and medical travel. It also covers medicines through PharmaCare Plan F. (One part, called SAET, is moving to the new Disability Benefit. The medical benefits stay.)",
+   "amount": "Items are approved first, then paid for directly. There is no set dollar amount.",
+   "who": [
+    "Your child is 0 to 17. Benefits last until the end of the month they turn 18.",
+    "Your child lives in BC, is on MSP (BC health insurance), and lives at home with a parent or guardian.",
+    "Your child needs full help with 3 of these 4: eating, dressing, toileting, washing. For kids under 3, a doctor confirms this."
+   ],
+   "steps": [
+    "Talk to your child’s doctor or therapist.",
+    "Fill in the form (CF2160). Add an assessment of your child’s daily skills, like the Vineland-3, PEDI-CAT or GMFCS.",
+    "A regional team decides. You get a letter.",
+    "In pilot areas (Prince Rupert and Haida Gwaii, Smithers, Terrace, Kelowna), apply through a Family Connections Centre."
+   ],
+   "docs": [
+    "Form CF2160",
+    "An assessment of your child’s daily skills",
+    "ID and proof you live in BC"
+   ],
+   "links": [
+    [
+     "gov.bc.ca: Eligibility and application",
+     "https://www2.gov.bc.ca/gov/content/health/managing-your-health/child-behaviour-development/support-needs/complex-health-needs/at-home-program/at-home-program-eligibility"
+    ],
+    [
+     "gov.bc.ca: Medical benefits",
+     "https://www2.gov.bc.ca/gov/content/health/managing-your-health/child-behaviour-development/support-needs/complex-health-needs/at-home-program/medical-benefits"
+    ],
+    [
+     "At Home Program Guide (PDF)",
+     "https://www2.gov.bc.ca/assets/gov/family-and-social-supports/children-teens-with-support-needs/at_home_program_guide.pdf"
+    ]
+   ],
+   "category": "equipment-aac",
+   "last_checked": "2026-10-17",
+   "plain_language": true,
+   "nickname": "BC At Home Program",
+   "amount_verified": true
+  },
+  {
+   "slug": "pwd-designation",
+   "name": "BC Persons with Disabilities (PWD) designation",
+   "gov": "BC (Ministry of Social Development and Poverty Reduction)",
+   "what": "PWD is a status for adults. It gives them disability assistance. That means more money each month, a higher limit on savings, help with transportation, and health supplements (extra health help). It’s for adults, so plan ahead for your child. You can start at 17½.",
+   "amount": "See the current BC rate tables on gov.bc.ca.",
+   "who": [
+    "18 or older. You can apply from 17½.",
+    "A severe physical or mental disability that is expected to last 2 years or more",
+    "Daily activities are very limited, and they need help",
+    "Income and savings are under BC’s limits"
+   ],
+   "steps": [
+    "Apply for assistance on My Self Serve (the BC website for assistance). Skip this step if you already get assistance.",
+    "Ask for the PWD form (HR2883).",
+    "Have the doctor or nurse practitioner and an assessor fill in their parts.",
+    "Send it in. If the answer is no, you can ask them to look again (this is called “reconsideration”). Disability Alliance BC can help."
+   ],
+   "docs": [
+    "PWD form HR2883",
+    "ID, SIN, bank and income details"
+   ],
+   "links": [
+    [
+     "gov.bc.ca: PWD designation application",
+     "https://www2.gov.bc.ca/gov/content/governments/policies-for-government/bcea-policy-and-procedure-manual/pwd-designation-and-application/designation-application"
+    ],
+    [
+     "gov.bc.ca: Eligibility assessment",
+     "https://www2.gov.bc.ca/gov/content/governments/policies-for-government/bcea-policy-and-procedure-manual/application-and-intake/eligibility-assessment"
+    ]
+   ],
+   "category": "disability-income",
+   "last_checked": "2026-10-17",
+   "plain_language": true,
+   "nickname": "BC PWD (adult disability assistance)",
+   "amount_verified": false
+  },
+  {
+   "slug": "crisis-supplements",
+   "name": "Crisis supplements and other assistance supplements",
+   "gov": "BC (Ministry of Social Development and Poverty Reduction)",
+   "what": "Do you get BC income, disability or hardship assistance? If an emergency puts your family’s health or safety at risk, you may get extra money. This is called a crisis supplement. It can help with things like food, shelter or clothing. BC also has help with damage deposits, a Housing Stability Supplement, and health supplements.",
+   "amount": "Set by BC rules. Check the supplements page.",
+   "who": [
+    "Your family gets BC income, disability or hardship assistance.",
+    "You have a sudden cost or need you can’t pay for any other way. Going without it would put health or safety at risk."
+   ],
+   "steps": [
+    "Contact the ministry as soon as the emergency happens. Use My Self Serve, call, or go to an office.",
+    "Tell them what you need and why you have no other way to get it.",
+    "If the answer is no, you can ask them to look again (reconsideration)."
+   ],
+   "docs": [
+    "Receipts, letters or price quotes about the emergency"
+   ],
+   "links": [
+    [
+     "gov.bc.ca: Supplements for people on assistance",
+     "https://www2.gov.bc.ca/gov/content/family-social-supports/income-assistance/on-assistance/supplements"
+    ],
+    [
+     "BCEA policy: Crisis supplement",
+     "https://www2.gov.bc.ca/gov/content/governments/policies-for-government/bcea-policy-and-procedure-manual/general-supplements-and-programs/crisis-supplement"
+    ]
+   ],
+   "category": "disability-income",
+   "last_checked": "2026-10-17",
+   "plain_language": true,
+   "nickname": "BC crisis supplements",
+   "amount_verified": false
+  },
+  {
+   "slug": "rental-assistance",
+   "name": "BC Housing Rental Assistance Program (RAP)",
+   "gov": "BC Housing",
+   "what": "Money each month to help working families with low income pay rent. You can’t get it while you get BC income or disability assistance, because both help with housing costs.",
+   "amount": "It depends on your income, rent and family size.",
+   "who": [
+    "Your household income is $60,000 or less before tax.",
+    "You have at least one child who depends on you.",
+    "You don’t get BC income or disability assistance. (Exception: Medical Services Only.)"
+   ],
+   "steps": [
+    "Check if you qualify on BC Housing’s RAP page.",
+    "Apply online or on paper. Add proof of your income and rent.",
+    "Apply again every year."
+   ],
+   "docs": [
+    "Tax notices of assessment (the letter you get from the CRA after you file)",
+    "Proof of rent"
+   ],
+   "links": [
+    [
+     "BC Housing: RAP",
+     "https://www.bchousing.org/housing-assistance/rental-assistance-programs/RAP"
+    ]
+   ],
+   "category": "housing",
+   "last_checked": "2026-10-17",
+   "plain_language": true,
+   "nickname": "BC rent help (RAP)",
+   "amount_verified": true
+  },
+  {
+   "slug": "bc-csnd",
+   "name": "Children and Youth with Support Needs (CYSN) family supports and respite",
+   "gov": "BC (MCFD)",
+   "category": "child-disability-family-support",
+   "what": "Help for families of kids with support needs. This can include respite (a short break for you while someone else cares for your child) and help with behaviour.",
+   "amount": "No fixed amount published; check the official page.",
+   "amount_verified": false,
+   "who": [
+    "Your child has support needs and lives in BC."
+   ],
+   "steps": [
+    "Call your local MCFD office (Ministry of Children and Family Development). Ask about family supports and respite."
+   ],
+   "docs": [],
+   "links": [
+    [
+     "BC: Children and youth with support needs",
+     "https://www2.gov.bc.ca/gov/content/health/managing-your-health/child-behaviour-development/support-needs/financial-supports"
+    ]
+   ],
+   "last_checked": "2026-10-17",
+   "nickname": "BC family supports and respite",
+   "plain_language": true
+  },
+  {
+   "slug": "jordans-principle",
+   "name": "Jordan's Principle (First Nations children)",
+   "gov": "Federal (Indigenous Services Canada)",
+   "category": "first-nations",
+   "what": "Helps First Nations kids get the health, social and school products, services and supports they need. It works on or off reserve. Kids should not have to wait while governments argue about who pays.",
+   "amount": "Case by case; no fixed amount.",
+   "amount_verified": false,
+   "who": [
+    "Your child is First Nations and under 19"
+   ],
+   "steps": [
+    "Call 1-855-572-4453. The line is open 24 hours a day.",
+    "Or apply online on the Indigenous Services Canada website."
+   ],
+   "docs": [],
+   "links": [
+    [
+     "ISC: Jordan's Principle",
+     "https://www.sac-isc.gc.ca/eng/1568396042341/1568396159824"
+    ]
+   ],
+   "last_checked": "2026-10-17",
+   "nickname": "Jordan's Principle (help for First Nations kids)",
+   "plain_language": true
+  }
+ ]
+}

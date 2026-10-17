@@ -1,0 +1,136 @@
+{
+ "code": "QC",
+ "province": "Quebec",
+ "last_checked": "2026-10-17",
+ "federal_note": "Federal programs (DTC, Child Disability Benefit, RDSP, Canada Child Benefit, Canada Disability Benefit for adults, Jordan's Principle, Inuit Child First) apply everywhere; see data/programs.json.",
+ "programs": [
+  {
+   "slug": "qc-seh",
+   "name": "Supplement for Handicapped Children (SEH)",
+   "gov": "Quebec (Retraite Québec)",
+   "category": "child-disability-family-support",
+   "what": "Monthly tax-free money for families of a child with a disability. Everyone gets the same amount. Your income does not matter.",
+   "amount": "2026: $241/month ($2,892/year) per child; retroactive up to 11 months (Retraite Québec, checked 2026-10-17).",
+   "amount_verified": true,
+   "who": [
+    "Your child is under 18.",
+    "The disability makes daily life much harder and will last at least a year.",
+    "You get Quebec's Family Allowance."
+   ],
+   "steps": [
+    "Apply to Retraite Québec online or by form, with a report from your child's health worker."
+   ],
+   "docs": [],
+   "links": [
+    [
+     "Retraite Québec: SEH amount and payment",
+     "https://www.retraitequebec.gouv.qc.ca/en/citizens/children/handicapped-child/supplement-handicapped-children/amount-payment"
+    ]
+   ],
+   "last_checked": "2026-10-17",
+   "nickname": "SEH (Quebec monthly money for kids with disabilities)",
+   "plain_language": true
+  },
+  {
+   "slug": "qc-sehnse",
+   "name": "Supplement for Handicapped Children Requiring Exceptional Care (SEHNSE)",
+   "gov": "Quebec (Retraite Québec)",
+   "category": "child-disability-family-support",
+   "what": "Extra money on top of SEH for kids with very high care needs.",
+   "amount": "2026 yearly: Tier 1 $14,580, Tier 2 $9,696 (Retraite Québec key data table, checked 2026-10-17).",
+   "amount_verified": true,
+   "who": [
+    "Your child already gets SEH and needs a very high level of care."
+   ],
+   "steps": [
+    "Apply to Retraite Québec with the special form."
+   ],
+   "docs": [],
+   "links": [
+    [
+     "Retraite Québec: SEHNSE",
+     "https://www.retraitequebec.gouv.qc.ca/en/citizens/children/handicapped-child/supplement-handicapped-children-requiring-exceptional-care"
+    ]
+   ],
+   "last_checked": "2026-10-17",
+   "nickname": "SEHNSE (Quebec extra money for kids needing a lot of care)",
+   "plain_language": true
+  },
+  {
+   "slug": "qc-family-allowance",
+   "name": "Family Allowance (Allocation famille)",
+   "gov": "Quebec (Retraite Québec)",
+   "category": "child-benefit",
+   "what": "Tax-free money for families with kids. You need it to get SEH.",
+   "amount": "No fixed amount published; check the official page.",
+   "amount_verified": false,
+   "who": [
+    "You live in Quebec, have kids under 18, and file a Quebec tax return."
+   ],
+   "steps": [
+    "It usually starts when you register a birth. If not, apply to Retraite Québec."
+   ],
+   "docs": [],
+   "links": [
+    [
+     "Retraite Québec: Family Allowance measure",
+     "https://www.retraitequebec.gouv.qc.ca/en/programs/family-allowance-measure"
+    ]
+   ],
+   "last_checked": "2026-10-17",
+   "nickname": "Quebec Family Allowance",
+   "plain_language": true
+  },
+  {
+   "slug": "qc-social-solidarity",
+   "name": "Social Solidarity Program / Basic Income Program",
+   "gov": "Quebec (Ministère de l'Emploi et de la Solidarité sociale)",
+   "category": "disability-income",
+   "what": "Monthly money for adults whose health makes it very hard to work.",
+   "amount": "No fixed amount published; check the official page.",
+   "amount_verified": false,
+   "who": [
+    "Adults with serious health limits, confirmed by a doctor's report."
+   ],
+   "steps": [
+    "Apply through Services Québec."
+   ],
+   "docs": [],
+   "links": [
+    [
+     "Québec.ca: Social Solidarity Program",
+     "https://www.quebec.ca/en/family-and-support-for-individuals/social-assistance-social-solidarity"
+    ]
+   ],
+   "last_checked": "2026-10-17",
+   "nickname": "Quebec Social Solidarity (disability income)",
+   "plain_language": true
+  },
+  {
+   "slug": "jordans-principle",
+   "name": "Jordan's Principle (First Nations children)",
+   "gov": "Federal (Indigenous Services Canada)",
+   "category": "first-nations",
+   "what": "Money from the federal government for First Nations kids. It can pay for therapy, respite (a break for you while someone else cares for your child), talking devices, and equipment. It works in every province, on or off reserve.",
+   "amount": "Case by case; no fixed amount.",
+   "amount_verified": false,
+   "who": [
+    "Your child is First Nations and under 19"
+   ],
+   "steps": [
+    "Call 1-855-572-4453. The line is open 24 hours a day.",
+    "Or apply online on the Indigenous Services Canada website."
+   ],
+   "docs": [],
+   "links": [
+    [
+     "ISC: Jordan's Principle",
+     "https://www.sac-isc.gc.ca/eng/1568396042341/1568396159824"
+    ]
+   ],
+   "last_checked": "2026-10-17",
+   "nickname": "Jordan's Principle (help for First Nations kids)",
+   "plain_language": true
+  }
+ ]
+}

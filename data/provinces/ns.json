@@ -1,0 +1,90 @@
+{
+ "code": "NS",
+ "province": "Nova Scotia",
+ "last_checked": "2026-10-17",
+ "federal_note": "Federal programs (DTC, Child Disability Benefit, RDSP, Canada Child Benefit, Canada Disability Benefit for adults, Jordan's Principle, Inuit Child First) apply everywhere; see data/programs.json.",
+ "programs": [
+  {
+   "slug": "ns-autism",
+   "name": "Autism supports (EIBI for preschoolers)",
+   "gov": "Nova Scotia (Health / IWK)",
+   "category": "autism",
+   "what": "Free early autism therapy (called EIBI) for young kids, at home or in daycare.",
+   "amount": "Free service; no individual funding amount.",
+   "amount_verified": false,
+   "who": [
+    "Your preschool child has an autism diagnosis and lives in NS."
+   ],
+   "steps": [
+    "Ask the doctor who diagnosed your child about a referral."
+   ],
+   "docs": [],
+   "links": [
+    [
+     "Nova Scotia: Support for Autism Spectrum Disorder",
+     "https://novascotia.ca/autism/"
+    ]
+   ],
+   "last_checked": "2026-10-17",
+   "nickname": "NS autism therapy for preschoolers",
+   "plain_language": true
+  },
+  {
+   "slug": "ns-dfsc",
+   "name": "Direct Family Support for Children (DFSC)",
+   "gov": "Nova Scotia (Opportunities and Social Development)",
+   "category": "respite",
+   "what": "Money to pay someone to care for your child so you get a break (respite).",
+   "amount": "Up to $2,800/month respite (incl. exceptional circumstances), plus up to $2,000/month enhanced respite = $4,800/month max (DFSC policy PDF, checked 2026-10-17).",
+   "amount_verified": true,
+   "who": [
+    "Your child is under 19 and has a disability.",
+    "Your child lives at home in NS.",
+    "Your income is under the limit."
+   ],
+   "steps": [
+    "Contact the Disability Support Program. See the official page."
+   ],
+   "docs": [],
+   "links": [
+    [
+     "NS: Direct Family Support for Children",
+     "https://novascotia.ca/coms/disabilities/DirectFamilySupportForChildren.html"
+    ],
+    [
+     "DFSC income guidelines",
+     "https://novascotia.ca/coms/disabilities/DFSCIncomeGuidelines.html"
+    ]
+   ],
+   "last_checked": "2026-10-17",
+   "nickname": "DFSC (NS respite money)",
+   "plain_language": true
+  },
+  {
+   "slug": "jordans-principle",
+   "name": "Jordan's Principle (First Nations children)",
+   "gov": "Federal (Indigenous Services Canada)",
+   "category": "first-nations",
+   "what": "Money from the federal government for First Nations kids. It can pay for therapy, respite (a break for you while someone else cares for your child), talking devices, and equipment. It works in every province, on or off reserve.",
+   "amount": "Case by case; no fixed amount.",
+   "amount_verified": false,
+   "who": [
+    "Your child is First Nations and under 19"
+   ],
+   "steps": [
+    "Call 1-855-572-4453. The line is open 24 hours a day.",
+    "Or apply online on the Indigenous Services Canada website."
+   ],
+   "docs": [],
+   "links": [
+    [
+     "ISC: Jordan's Principle",
+     "https://www.sac-isc.gc.ca/eng/1568396042341/1568396159824"
+    ]
+   ],
+   "last_checked": "2026-10-17",
+   "nickname": "Jordan's Principle (help for First Nations kids)",
+   "plain_language": true
+  }
+ ]
+}

@@ -1,0 +1,117 @@
+{
+ "code": "MB",
+ "province": "Manitoba",
+ "last_checked": "2026-10-17",
+ "federal_note": "Federal programs (DTC, Child Disability Benefit, RDSP, Canada Child Benefit, Canada Disability Benefit for adults, Jordan's Principle, Inuit Child First) apply everywhere; see data/programs.json.",
+ "programs": [
+  {
+   "slug": "mb-cds",
+   "name": "Children's disABILITY Services (CDS)",
+   "gov": "Manitoba Families",
+   "category": "child-disability-family-support",
+   "what": "Help for families raising a child with a disability or autism. This can include respite (a break for you), autism services, and help with your child's growth. Being accepted does not promise a certain service.",
+   "amount": "Services based on assessed need; no fixed amount published.",
+   "amount_verified": false,
+   "who": [
+    "Your child is under 18 and lives in Manitoba with you.",
+    "Your child has autism, a developmental delay, an intellectual disability, or a lifelong problem walking or moving."
+   ],
+   "steps": [
+    "Fill in the Referral and Intake form.",
+    "Send it with your child's diagnosis letter to your local CDS office.",
+    "Questions? Call 204-945-8311 or email cdsintake@gov.mb.ca."
+   ],
+   "docs": [],
+   "links": [
+    [
+     "Manitoba: Children's disABILITY Services",
+     "https://www.gov.mb.ca/fs/cds/"
+    ],
+    [
+     "CDS FAQs",
+     "https://www.gov.mb.ca/fs/cds/faqs.html"
+    ]
+   ],
+   "last_checked": "2026-10-17",
+   "nickname": "CDS (Manitoba help for kids with disabilities)",
+   "plain_language": true
+  },
+  {
+   "slug": "mb-mspd",
+   "name": "Manitoba Supports for Persons with Disabilities (MSPD)",
+   "gov": "Manitoba Families",
+   "category": "disability-income",
+   "what": "Monthly money for adults with a serious, long-term disability. It also helps with rent.",
+   "amount": "Search summary reported $647.17/month basic needs plus up to $816 Rent Assist for a single adult (July 2026), from a non-government source; NOT verified on gov.mb.ca.",
+   "amount_verified": false,
+   "who": [
+    "Adults with a serious, long-term disability.",
+    "You must have low income."
+   ],
+   "steps": [
+    "See the official page to apply."
+   ],
+   "docs": [],
+   "links": [
+    [
+     "Manitoba Supports: benefits and services",
+     "https://gov.mb.ca/fs/manitobasupports/the-program/benefits-services.html"
+    ]
+   ],
+   "last_checked": "2026-10-17",
+   "nickname": "Manitoba disability income",
+   "plain_language": true
+  },
+  {
+   "slug": "mb-rentassist",
+   "name": "Rent Assist",
+   "gov": "Manitoba",
+   "category": "housing",
+   "what": "Monthly help to pay rent if your income is low. Working families can get it too.",
+   "amount": "No fixed amount published; check the official page.",
+   "amount_verified": false,
+   "who": [
+    "You rent your home and have low income."
+   ],
+   "steps": [
+    "Apply through Manitoba Families. See the official page."
+   ],
+   "docs": [],
+   "links": [
+    [
+     "Manitoba: Rent Assist",
+     "https://www.gov.mb.ca/fs/eia/rentassist.html"
+    ]
+   ],
+   "last_checked": "2026-10-17",
+   "nickname": "Rent Assist (Manitoba rent help)",
+   "plain_language": true
+  },
+  {
+   "slug": "jordans-principle",
+   "name": "Jordan's Principle (First Nations children)",
+   "gov": "Federal (Indigenous Services Canada)",
+   "category": "first-nations",
+   "what": "Money from the federal government for First Nations kids. It can pay for therapy, respite (a break for you while someone else cares for your child), talking devices, and equipment. It works in every province, on or off reserve.",
+   "amount": "Case by case; no fixed amount.",
+   "amount_verified": false,
+   "who": [
+    "Your child is First Nations and under 19"
+   ],
+   "steps": [
+    "Call 1-855-572-4453. The line is open 24 hours a day.",
+    "Or apply online on the Indigenous Services Canada website."
+   ],
+   "docs": [],
+   "links": [
+    [
+     "ISC: Jordan's Principle",
+     "https://www.sac-isc.gc.ca/eng/1568396042341/1568396159824"
+    ]
+   ],
+   "last_checked": "2026-10-17",
+   "nickname": "Jordan's Principle (help for First Nations kids)",
+   "plain_language": true
+  }
+ ]
+}

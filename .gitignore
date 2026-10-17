@@ -3,3 +3,4 @@ screenshots/
 .htmlvalidate.json
 launch-kit.md
 .tools/
+__pycache__/

@@ -1,0 +1,112 @@
+{
+ "code": "NU",
+ "province": "Nunavut",
+ "last_checked": "2026-10-17",
+ "federal_note": "Federal programs (DTC, Child Disability Benefit, RDSP, Canada Child Benefit, Canada Disability Benefit for adults, Jordan's Principle, Inuit Child First) apply everywhere; see data/programs.json.",
+ "programs": [
+  {
+   "slug": "nu-family-wellness",
+   "name": "Family Wellness community social services",
+   "gov": "Government of Nunavut (Family Services)",
+   "category": "child-disability-family-support",
+   "what": "Local workers help you find support and apply to Inuit Child First. We could not find a Nunavut autism funding program.",
+   "amount": "No fixed amount published; check the official page.",
+   "amount_verified": false,
+   "who": [
+    "Nunavut families."
+   ],
+   "steps": [
+    "Contact the Family Services office in your community."
+   ],
+   "docs": [],
+   "links": [
+    [
+     "Nunavut: Department of Family Services",
+     "https://www.gov.nu.ca/en/department-family-services"
+    ]
+   ],
+   "last_checked": "2026-10-17",
+   "nickname": "Nunavut family services",
+   "plain_language": true
+  },
+  {
+   "slug": "nu-income-assistance",
+   "name": "Income Assistance",
+   "gov": "Government of Nunavut (Family Services)",
+   "category": "disability-income",
+   "what": "Monthly money for people who can't pay for basic needs.",
+   "amount": "No fixed amount published; check the official page.",
+   "amount_verified": false,
+   "who": [
+    "Nunavut adults with low income."
+   ],
+   "steps": [
+    "Call your community Income Assistance worker to book a meeting.",
+    "Bring birth certificates, SINs and health card numbers for everyone in your family.",
+    "Regional help: South Qikiqtani 1-855-975-6580, North Qikiqtani 1-800-567-1514, Kivalliq 1-800-953-8516, Kitikmeot 1-800-661-0845."
+   ],
+   "docs": [],
+   "links": [
+    [
+     "Nunavut: Income Assistance Program",
+     "https://www.gov.nu.ca/en/social-supports/income-assistance-program"
+    ]
+   ],
+   "last_checked": "2026-10-17",
+   "nickname": "Nunavut income assistance",
+   "plain_language": true
+  },
+  {
+   "slug": "inuit-child-first",
+   "name": "Inuit Child First Initiative",
+   "gov": "Federal (Indigenous Services Canada)",
+   "category": "first-nations",
+   "what": "Money from the federal government for Inuit kids. It can pay for therapy, tests, wheelchairs and other aids, rides to care, and respite (a break for you). It is free to ask.",
+   "amount": "Case by case; no fixed amount.",
+   "amount_verified": false,
+   "who": [
+    "Your child is Inuk"
+   ],
+   "steps": [
+    "Call 1-855-572-4453.",
+    "Or contact the Inuit Child First helper for your region."
+   ],
+   "docs": [],
+   "links": [
+    [
+     "ISC: Supporting Inuit children",
+     "https://www.sac-isc.gc.ca/eng/1536348095773/1536348148664"
+    ]
+   ],
+   "last_checked": "2026-10-17",
+   "nickname": "Inuit Child First (help for Inuit kids)",
+   "plain_language": true
+  },
+  {
+   "slug": "jordans-principle",
+   "name": "Jordan's Principle (First Nations children)",
+   "gov": "Federal (Indigenous Services Canada)",
+   "category": "first-nations",
+   "what": "Money from the federal government for First Nations kids. It can pay for therapy, respite (a break for you while someone else cares for your child), talking devices, and equipment. It works in every province, on or off reserve.",
+   "amount": "Case by case; no fixed amount.",
+   "amount_verified": false,
+   "who": [
+    "Your child is First Nations and under 19"
+   ],
+   "steps": [
+    "Call 1-855-572-4453. The line is open 24 hours a day.",
+    "Or apply online on the Indigenous Services Canada website."
+   ],
+   "docs": [],
+   "links": [
+    [
+     "ISC: Jordan's Principle",
+     "https://www.sac-isc.gc.ca/eng/1568396042341/1568396159824"
+    ]
+   ],
+   "last_checked": "2026-10-17",
+   "nickname": "Jordan's Principle (help for First Nations kids)",
+   "plain_language": true
+  }
+ ]
+}

@@ -1,0 +1,84 @@
+{
+ "code": "PE",
+ "province": "Prince Edward Island",
+ "last_checked": "2026-10-17",
+ "federal_note": "Federal programs (DTC, Child Disability Benefit, RDSP, Canada Child Benefit, Canada Disability Benefit for adults, Jordan's Principle, Inuit Child First) apply everywhere; see data/programs.json.",
+ "programs": [
+  {
+   "slug": "pe-autism-funding",
+   "name": "Preschool and school-age autism funding",
+   "gov": "PEI (Education and Early Years)",
+   "category": "autism",
+   "what": "For young kids, it pays for an Autism Assistant to do therapy. For school-age kids, it helps pay for tutors or aides after school.",
+   "amount": "Hours-based funding (up to 20-25 hrs/week per guidelines); dollar maximum not verified.",
+   "amount_verified": false,
+   "who": [
+    "Your child has an autism diagnosis and lives on PEI."
+   ],
+   "steps": [
+    "Call the Early Years Autism Service at 902-368-4472, or email earlyyearsautism@gov.pe.ca."
+   ],
+   "docs": [],
+   "links": [
+    [
+     "PEI: Autism Funding",
+     "https://www.princeedwardisland.ca/en/information/education-and-early-years/autism-funding"
+    ]
+   ],
+   "last_checked": "2026-10-17",
+   "nickname": "PEI autism funding",
+   "plain_language": true
+  },
+  {
+   "slug": "pe-aas",
+   "name": "AccessAbility Supports",
+   "gov": "PEI (Social Development and Seniors)",
+   "category": "child-disability-family-support",
+   "what": "Help for Islanders with disabilities of any age. It can include respite, equipment, and money for adults.",
+   "amount": "No fixed amount published; check the official page.",
+   "amount_verified": false,
+   "who": [
+    "You live on PEI and have a disability."
+   ],
+   "steps": [
+    "Apply through Social Development and Seniors."
+   ],
+   "docs": [],
+   "links": [
+    [
+     "PEI: AccessAbility Supports",
+     "https://princeedwardisland.ca/en/information/social-development-and-seniors/accessability-supports"
+    ]
+   ],
+   "last_checked": "2026-10-17",
+   "nickname": "AccessAbility Supports (PEI disability help)",
+   "plain_language": true
+  },
+  {
+   "slug": "jordans-principle",
+   "name": "Jordan's Principle (First Nations children)",
+   "gov": "Federal (Indigenous Services Canada)",
+   "category": "first-nations",
+   "what": "Money from the federal government for First Nations kids. It can pay for therapy, respite (a break for you while someone else cares for your child), talking devices, and equipment. It works in every province, on or off reserve.",
+   "amount": "Case by case; no fixed amount.",
+   "amount_verified": false,
+   "who": [
+    "Your child is First Nations and under 19"
+   ],
+   "steps": [
+    "Call 1-855-572-4453. The line is open 24 hours a day.",
+    "Or apply online on the Indigenous Services Canada website."
+   ],
+   "docs": [],
+   "links": [
+    [
+     "ISC: Jordan's Principle",
+     "https://www.sac-isc.gc.ca/eng/1568396042341/1568396159824"
+    ]
+   ],
+   "last_checked": "2026-10-17",
+   "nickname": "Jordan's Principle (help for First Nations kids)",
+   "plain_language": true
+  }
+ ]
+}

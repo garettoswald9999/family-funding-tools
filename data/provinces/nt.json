@@ -1,0 +1,114 @@
+{
+ "code": "NT",
+ "province": "Northwest Territories",
+ "last_checked": "2026-10-17",
+ "federal_note": "Federal programs (DTC, Child Disability Benefit, RDSP, Canada Child Benefit, Canada Disability Benefit for adults, Jordan's Principle, Inuit Child First) apply everywhere; see data/programs.json.",
+ "programs": [
+  {
+   "slug": "nt-respite",
+   "name": "Community respite for children with disabilities",
+   "gov": "GNWT-funded, delivered by NWT Disabilities Council / Inclusion NWT",
+   "category": "respite",
+   "what": "Respite (a break for you) for families of kids with disabilities or autism. You can sign up yourself.",
+   "amount": "No fixed amount published; check the official page.",
+   "amount_verified": false,
+   "who": [
+    "Your child has a lasting disability and lives at home in a community that offers it."
+   ],
+   "steps": [
+    "Call NWT Disabilities Council at 1-800-491-8885, or Inclusion NWT."
+   ],
+   "docs": [],
+   "links": [
+    [
+     "GNWT programs for persons with disabilities inventory",
+     "https://www.hss.gov.nt.ca/sites/hss/files/resources/gnwt-disabilities-inventory.pdf"
+    ],
+    [
+     "NWTDC Community Respite (non-gov)",
+     "https://www.nwtdc.net/community-respite"
+    ]
+   ],
+   "last_checked": "2026-10-17",
+   "nickname": "NWT respite for families",
+   "plain_language": true
+  },
+  {
+   "slug": "nt-income-assistance",
+   "name": "Income Assistance",
+   "gov": "GNWT (Education, Culture and Employment)",
+   "category": "disability-income",
+   "what": "Monthly money for people who can't pay for basic needs.",
+   "amount": "No fixed amount published; check the official page.",
+   "amount_verified": false,
+   "who": [
+    "NWT adults with low income."
+   ],
+   "steps": [
+    "Contact your regional Income Security office."
+   ],
+   "docs": [],
+   "links": [
+    [
+     "GNWT: Income Assistance",
+     "https://www.ece.gov.nt.ca/en/services/income-assistance"
+    ]
+   ],
+   "last_checked": "2026-10-17",
+   "nickname": "NWT income assistance",
+   "plain_language": true
+  },
+  {
+   "slug": "jordans-principle",
+   "name": "Jordan's Principle (First Nations children)",
+   "gov": "Federal (Indigenous Services Canada)",
+   "category": "first-nations",
+   "what": "Money from the federal government for First Nations kids. It can pay for therapy, respite (a break for you while someone else cares for your child), talking devices, and equipment. It works in every province, on or off reserve.",
+   "amount": "Case by case; no fixed amount.",
+   "amount_verified": false,
+   "who": [
+    "Your child is First Nations and under 19"
+   ],
+   "steps": [
+    "Call 1-855-572-4453. The line is open 24 hours a day.",
+    "Or apply online on the Indigenous Services Canada website."
+   ],
+   "docs": [],
+   "links": [
+    [
+     "ISC: Jordan's Principle",
+     "https://www.sac-isc.gc.ca/eng/1568396042341/1568396159824"
+    ]
+   ],
+   "last_checked": "2026-10-17",
+   "nickname": "Jordan's Principle (help for First Nations kids)",
+   "plain_language": true
+  },
+  {
+   "slug": "inuit-child-first",
+   "name": "Inuit Child First Initiative",
+   "gov": "Federal (Indigenous Services Canada)",
+   "category": "first-nations",
+   "what": "Money from the federal government for Inuit kids. It can pay for therapy, tests, wheelchairs and other aids, rides to care, and respite (a break for you). It is free to ask.",
+   "amount": "Case by case; no fixed amount.",
+   "amount_verified": false,
+   "who": [
+    "Your child is Inuk"
+   ],
+   "steps": [
+    "Call 1-855-572-4453.",
+    "Or contact the Inuit Child First helper for your region."
+   ],
+   "docs": [],
+   "links": [
+    [
+     "ISC: Supporting Inuit children",
+     "https://www.sac-isc.gc.ca/eng/1536348095773/1536348148664"
+    ]
+   ],
+   "last_checked": "2026-10-17",
+   "nickname": "Inuit Child First (help for Inuit kids)",
+   "plain_language": true
+  }
+ ]
+}

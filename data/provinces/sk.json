@@ -1,0 +1,113 @@
+{
+ "code": "SK",
+ "province": "Saskatchewan",
+ "last_checked": "2026-10-17",
+ "federal_note": "Federal programs (DTC, Child Disability Benefit, RDSP, Canada Child Benefit, Canada Disability Benefit for adults, Jordan's Principle, Inuit Child First) apply everywhere; see data/programs.json.",
+ "programs": [
+  {
+   "slug": "sk-asd-if",
+   "name": "Autism Spectrum Disorder Individualized Funding (ASD-IF)",
+   "gov": "Saskatchewan (Health)",
+   "category": "autism",
+   "what": "Yearly money to pay for therapy and family supports for your child with autism. It can pay for respite, equipment, or learning.",
+   "amount": "Under 6: up to $8,000/year; ages 6-11: up to $6,000/year (saskatchewan.ca, checked 2026-10-17).",
+   "amount_verified": true,
+   "who": [
+    "Your child is under 12 and has an autism diagnosis.",
+    "You live in Saskatchewan, not on reserve."
+   ],
+   "steps": [
+    "Apply online. You need your SIN, your child's health card number, proof of address, the autism form, and a direct deposit form.",
+    "Renew every year and send receipts."
+   ],
+   "docs": [],
+   "links": [
+    [
+     "Saskatchewan: Autism services and ASD-IF",
+     "https://www.saskatchewan.ca/residents/health/accessing-health-care-services/health-services-for-people-with-disabilities/autism-services"
+    ]
+   ],
+   "last_checked": "2026-10-17",
+   "nickname": "ASD-IF (Saskatchewan autism funding)",
+   "plain_language": true
+  },
+  {
+   "slug": "sk-cds",
+   "name": "Cognitive Disability Strategy (CDS) flexible funding",
+   "gov": "Saskatchewan (Social Services)",
+   "category": "child-disability-family-support",
+   "what": "Helpers and money for a need tied to your child's thinking or learning disability. Your income is checked.",
+   "amount": "Up to $15,120/year at highest assessed level, reducing with household income (CDS FAQ PDF on publications.saskatchewan.ca; publication date unconfirmed, checked 2026-10-17).",
+   "amount_verified": true,
+   "who": [
+    "Your child has a thinking or learning disability since early life.",
+    "The need isn't covered by another program."
+   ],
+   "steps": [
+    "Fill in the CDS form. Send it to a consultant (1-833-304-1774).",
+    "Someone will check how much daily help your child needs."
+   ],
+   "docs": [],
+   "links": [
+    [
+     "Saskatchewan: CDS support",
+     "https://www.saskatchewan.ca/residents/family-and-social-support/people-with-disabilities/financial-help-and-support-for-people-with-cognitive-disabilities"
+    ]
+   ],
+   "last_checked": "2026-10-17",
+   "nickname": "CDS (Saskatchewan help for cognitive disabilities)",
+   "plain_language": true
+  },
+  {
+   "slug": "sk-said",
+   "name": "Saskatchewan Assured Income for Disability (SAID)",
+   "gov": "Saskatchewan (Social Services)",
+   "category": "disability-income",
+   "what": "Monthly money for adults with a serious, lasting disability.",
+   "amount": "No fixed amount published; check the official page.",
+   "amount_verified": false,
+   "who": [
+    "Adults 18 and over with a serious disability and low income."
+   ],
+   "steps": [
+    "Apply online with a Saskatchewan Account, or call 1-888-567-7243."
+   ],
+   "docs": [],
+   "links": [
+    [
+     "Saskatchewan: SAID",
+     "https://www.saskatchewan.ca/residents/family-and-social-support/people-with-disabilities/income-support-for-people-with-disabilities"
+    ]
+   ],
+   "last_checked": "2026-10-17",
+   "nickname": "SAID (Saskatchewan disability income)",
+   "plain_language": true
+  },
+  {
+   "slug": "jordans-principle",
+   "name": "Jordan's Principle (First Nations children)",
+   "gov": "Federal (Indigenous Services Canada)",
+   "category": "first-nations",
+   "what": "Money from the federal government for First Nations kids. It can pay for therapy, respite (a break for you while someone else cares for your child), talking devices, and equipment. It works in every province, on or off reserve.",
+   "amount": "Case by case; no fixed amount.",
+   "amount_verified": false,
+   "who": [
+    "Your child is First Nations and under 19"
+   ],
+   "steps": [
+    "Call 1-855-572-4453. The line is open 24 hours a day.",
+    "Or apply online on the Indigenous Services Canada website."
+   ],
+   "docs": [],
+   "links": [
+    [
+     "ISC: Jordan's Principle",
+     "https://www.sac-isc.gc.ca/eng/1568396042341/1568396159824"
+    ]
+   ],
+   "last_checked": "2026-10-17",
+   "nickname": "Jordan's Principle (help for First Nations kids)",
+   "plain_language": true
+  }
+ ]
+}

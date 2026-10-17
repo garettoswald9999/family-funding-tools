@@ -1,0 +1,190 @@
+{
+ "code": "ON",
+ "province": "Ontario",
+ "last_checked": "2026-10-17",
+ "federal_note": "Federal programs (DTC, Child Disability Benefit, RDSP, Canada Child Benefit, Canada Disability Benefit for adults, Jordan's Principle, Inuit Child First) apply everywhere; see data/programs.json.",
+ "programs": [
+  {
+   "slug": "on-oap",
+   "name": "Ontario Autism Program (OAP) core clinical services",
+   "gov": "Ontario (MCCSS)",
+   "category": "autism",
+   "what": "Yearly money to pay for therapies like ABA (step-by-step skill teaching), speech, and OT (occupational therapy). The amount depends on your child's age and needs.",
+   "amount": "$6,600 to $65,000 a year depending on age band and support needs; up to $65,000 for under 4 or ages 4-9 with extensive needs (ontario.ca, checked 2026-10-17).",
+   "amount_verified": true,
+   "who": [
+    "Your child is under 18, lives in Ontario, and has a written autism diagnosis."
+   ],
+   "steps": [
+    "Sign up with AccessOAP at 1-833-372-2627. Have the diagnosis letter ready.",
+    "When asked, meet with a care coordinator. They decide how much help your child needs."
+   ],
+   "docs": [],
+   "links": [
+    [
+     "Ontario: OAP",
+     "https://www.ontario.ca/page/ontario-autism-program"
+    ],
+    [
+     "OAP core clinical services guidelines",
+     "https://www.ontario.ca/page/ontario-autism-program-guidelines-core-clinical-services-and-supports"
+    ]
+   ],
+   "last_checked": "2026-10-17",
+   "nickname": "OAP (Ontario autism funding)",
+   "plain_language": true
+  },
+  {
+   "slug": "on-acsd",
+   "name": "Assistance for Children with Severe Disabilities (ACSD)",
+   "gov": "Ontario (MCCSS)",
+   "category": "child-disability-family-support",
+   "what": "Monthly money for extra costs, like trips to appointments, equipment, and respite.",
+   "amount": "$25 to $678/month; $678 max effective July 1, 2026 (ontario.ca, checked 2026-10-17).",
+   "amount_verified": true,
+   "who": [
+    "Your child is under 18, has a severe disability, and lives at home in Ontario.",
+    "The amount depends on your income and costs."
+   ],
+   "steps": [
+    "Fill in the ACSD form. Send it to your regional ministry office."
+   ],
+   "docs": [],
+   "links": [
+    [
+     "Ontario: ACSD",
+     "https://www.ontario.ca/page/assistance-children-severe-disabilities-program"
+    ]
+   ],
+   "last_checked": "2026-10-17",
+   "nickname": "ACSD (Ontario monthly money for kids with severe disabilities)",
+   "plain_language": true
+  },
+  {
+   "slug": "on-ssah",
+   "name": "Special Services at Home (SSAH)",
+   "gov": "Ontario (MCCSS)",
+   "category": "respite",
+   "what": "Money to pay for respite (a break for you) and to help your child learn skills. Your income does not matter.",
+   "amount": "Set case by case; no published maximum.",
+   "amount_verified": false,
+   "who": [
+    "Your child is under 18, has a disability, and lives at home in Ontario."
+   ],
+   "steps": [
+    "Apply at your regional ministry office. You can use one form for SSAH and ACSD."
+   ],
+   "docs": [],
+   "links": [
+    [
+     "Ontario: Special Services at Home",
+     "https://www.ontario.ca/page/special-services-home"
+    ]
+   ],
+   "last_checked": "2026-10-17",
+   "nickname": "SSAH (Ontario respite money)",
+   "plain_language": true
+  },
+  {
+   "slug": "on-odsp",
+   "name": "Ontario Disability Support Program (ODSP)",
+   "gov": "Ontario",
+   "category": "disability-income",
+   "what": "Monthly money and health benefits for adults with a disability.",
+   "amount": "No fixed amount published; check the official page.",
+   "amount_verified": false,
+   "who": [
+    "Adults 18 and over with a disability and low income."
+   ],
+   "steps": [
+    "Apply online, by phone, or at an ODSP office."
+   ],
+   "docs": [],
+   "links": [
+    [
+     "Ontario: ODSP",
+     "https://www.ontario.ca/page/ontario-disability-support-program"
+    ]
+   ],
+   "last_checked": "2026-10-17",
+   "nickname": "ODSP (Ontario disability income)",
+   "plain_language": true
+  },
+  {
+   "slug": "on-adp",
+   "name": "Assistive Devices Program (ADP)",
+   "gov": "Ontario Health",
+   "category": "equipment-aac",
+   "what": "Pays most of the cost of many devices, including talking devices.",
+   "amount": "Up to 75% of approved device cost (ontario.ca, per ADP page).",
+   "amount_verified": false,
+   "who": [
+    "Your child has a health card and a disability lasting 6 months or more."
+   ],
+   "steps": [
+    "A trained clinician (called an authorizer) checks your child and fills in the form."
+   ],
+   "docs": [],
+   "links": [
+    [
+     "Ontario: Assistive Devices Program",
+     "https://www.ontario.ca/page/assistive-devices-program"
+    ]
+   ],
+   "last_checked": "2026-10-17",
+   "nickname": "ADP (Ontario equipment help)",
+   "plain_language": true
+  },
+  {
+   "slug": "on-ocb",
+   "name": "Ontario Child Benefit",
+   "gov": "Ontario (paid by CRA)",
+   "category": "child-benefit",
+   "what": "Extra monthly money for families with kids and low or middle income. It comes with the Canada Child Benefit.",
+   "amount": "No fixed amount published; check the official page.",
+   "amount_verified": false,
+   "who": [
+    "You have kids under 18 and file taxes."
+   ],
+   "steps": [
+    "File your taxes every year."
+   ],
+   "docs": [],
+   "links": [
+    [
+     "Ontario Child Benefit",
+     "https://www.ontario.ca/page/ontario-child-benefit"
+    ]
+   ],
+   "last_checked": "2026-10-17",
+   "nickname": "Ontario child benefit",
+   "plain_language": true
+  },
+  {
+   "slug": "jordans-principle",
+   "name": "Jordan's Principle (First Nations children)",
+   "gov": "Federal (Indigenous Services Canada)",
+   "category": "first-nations",
+   "what": "Money from the federal government for First Nations kids. It can pay for therapy, respite (a break for you while someone else cares for your child), talking devices, and equipment. It works in every province, on or off reserve.",
+   "amount": "Case by case; no fixed amount.",
+   "amount_verified": false,
+   "who": [
+    "Your child is First Nations and under 19"
+   ],
+   "steps": [
+    "Call 1-855-572-4453. The line is open 24 hours a day.",
+    "Or apply online on the Indigenous Services Canada website."
+   ],
+   "docs": [],
+   "links": [
+    [
+     "ISC: Jordan's Principle",
+     "https://www.sac-isc.gc.ca/eng/1568396042341/1568396159824"
+    ]
+   ],
+   "last_checked": "2026-10-17",
+   "nickname": "Jordan's Principle (help for First Nations kids)",
+   "plain_language": true
+  }
+ ]
+}

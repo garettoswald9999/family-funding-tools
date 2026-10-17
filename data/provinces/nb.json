@@ -1,0 +1,112 @@
+{
+ "code": "NB",
+ "province": "New Brunswick",
+ "last_checked": "2026-10-17",
+ "federal_note": "Federal programs (DTC, Child Disability Benefit, RDSP, Canada Child Benefit, Canada Disability Benefit for adults, Jordan's Principle, Inuit Child First) apply everywhere; see data/programs.json.",
+ "programs": [
+  {
+   "slug": "nb-preschool-autism",
+   "name": "Preschool Autism Program",
+   "gov": "New Brunswick (Education and Early Childhood Development)",
+   "category": "autism",
+   "what": "Free autism therapy for young kids before they start school. It uses ABA (a therapy that teaches skills step by step). It costs you nothing.",
+   "amount": "Free service; no family contribution.",
+   "amount_verified": false,
+   "who": [
+    "Your child is 0 to 5, lives in NB, and has an autism diagnosis.",
+    "Your child has not started school."
+   ],
+   "steps": [
+    "The doctor or psychologist who diagnosed your child sends a form to the province.",
+    "The province calls you to sign up. Questions: 1-844-377-3819."
+   ],
+   "docs": [],
+   "links": [
+    [
+     "GNB: Preschool Autism Program",
+     "https://gnb.ca/content/gnb/en/departments/social_development/seniors/content/services-seniors/services_renderer.13836.Programme_pr%C3%A9scolaire_en_autisme.html"
+    ]
+   ],
+   "last_checked": "2026-10-17",
+   "nickname": "NB free autism therapy for preschoolers",
+   "plain_language": true
+  },
+  {
+   "slug": "nb-fscd",
+   "name": "Family Supports for Children with Disabilities",
+   "gov": "New Brunswick (Social Development)",
+   "category": "child-disability-family-support",
+   "what": "Help so you can care for your child at home. This can include respite (a break for you) and child care.",
+   "amount": "No fixed amount published; check the official page.",
+   "amount_verified": false,
+   "who": [
+    "Your child has a disability and lives in NB.",
+    "Your income is checked."
+   ],
+   "steps": [
+    "Call Social Development at 1-833-733-7835."
+   ],
+   "docs": [],
+   "links": [
+    [
+     "GNB: Family supports for children with disabilities",
+     "https://www.gnb.ca/en/topic/family-home-community/persons-with-disabilities/supports-children.html"
+    ]
+   ],
+   "last_checked": "2026-10-17",
+   "nickname": "NB help for kids with disabilities",
+   "plain_language": true
+  },
+  {
+   "slug": "nb-dsp",
+   "name": "Disability Support Program (adults)",
+   "gov": "New Brunswick (Social Development)",
+   "category": "disability-supports-adult",
+   "what": "Help for adults with a long-term disability, like personal care, respite, and rides. You may pay part, based on income. Savings are not counted.",
+   "amount": "No fixed amount published; check the official page.",
+   "amount_verified": false,
+   "who": [
+    "Adults 19 to 64 with a long-term disability."
+   ],
+   "steps": [
+    "Apply online or call 1-833-733-7835."
+   ],
+   "docs": [],
+   "links": [
+    [
+     "GNB: Disability support program",
+     "https://www.gnb.ca/en/topic/family-home-community/persons-with-disabilities/disability-support.html"
+    ]
+   ],
+   "last_checked": "2026-10-17",
+   "nickname": "NB help for adults with disabilities",
+   "plain_language": true
+  },
+  {
+   "slug": "jordans-principle",
+   "name": "Jordan's Principle (First Nations children)",
+   "gov": "Federal (Indigenous Services Canada)",
+   "category": "first-nations",
+   "what": "Money from the federal government for First Nations kids. It can pay for therapy, respite (a break for you while someone else cares for your child), talking devices, and equipment. It works in every province, on or off reserve.",
+   "amount": "Case by case; no fixed amount.",
+   "amount_verified": false,
+   "who": [
+    "Your child is First Nations and under 19"
+   ],
+   "steps": [
+    "Call 1-855-572-4453. The line is open 24 hours a day.",
+    "Or apply online on the Indigenous Services Canada website."
+   ],
+   "docs": [],
+   "links": [
+    [
+     "ISC: Jordan's Principle",
+     "https://www.sac-isc.gc.ca/eng/1568396042341/1568396159824"
+    ]
+   ],
+   "last_checked": "2026-10-17",
+   "nickname": "Jordan's Principle (help for First Nations kids)",
+   "plain_language": true
+  }
+ ]
+}
