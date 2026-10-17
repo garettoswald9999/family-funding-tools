@@ -57,3 +57,6 @@ footer{background:#fff;border-top:1px solid #e5e5ea;padding:2.5rem 0 2rem;font-s
 @media (max-width:600px){.hero{padding:2.5rem 0 2rem}.pill.lg{width:100%}.card,.tile{padding:22px}.filters{padding:16px}}
 [hidden]{display:none!important}
 .nl-form button{flex:none;min-height:44px;background:var(--ac);color:#fff;border:0;border-radius:980px;padding:.7rem 1.6rem;font:inherit;cursor:pointer}.nl-form button:hover{background:var(--acd)}
+.priv{font-size:.78rem;color:var(--mut);margin:.5rem 0 0}.nl-form output{font-weight:600;color:#1d1d1f}.ml-form.done output{color:#1a7f37}
+.sb-form{max-width:480px;margin:1rem auto 0}.sb-form .nl-form label{text-align:left}.nl-form button[disabled]{opacity:.6}
+.feature.sb-form{max-width:720px;margin:2rem auto 0;padding:2rem 1.5rem}.feature.sb-form h2{margin-top:0}
