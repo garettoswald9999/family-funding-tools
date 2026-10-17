@@ -2,3 +2,4 @@ dist/
 screenshots/
 .htmlvalidate.json
 launch-kit.md
+.tools/

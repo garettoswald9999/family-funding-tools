@@ -29,3 +29,4 @@ def make(fn,kicker,title,sub,accent=(0,113,227)):
 make('og-home.png','For BC parents of kids with disabilities','Your child may qualify for thousands in support.','Find out in 2 minutes. Plain language, from a BC dad of a non-verbal son.')
 make('og-quiz.png','Free 2-minute quiz','What can your family get?','8 quick questions. A personal checklist of BC and federal programs.')
 make('og-2027.png','Heads up, BC parents','BC Autism Funding ends March 31, 2027.','Here\'s what replaces it, and what to do now.',accent=(0,102,204))
+make('og-dtc.png','The DTC Playbook','The Disability Tax Credit, step by step.','Doctor prep sheet, fees, MP help, and how to claim up to 10 years back.')

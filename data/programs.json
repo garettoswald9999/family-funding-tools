@@ -1,13 +1,373 @@
 [
-{"slug":"disability-tax-credit","name":"Disability Tax Credit (DTC)","gov":"Federal (CRA)","what":"A non-refundable tax credit for people with a severe and prolonged impairment. For a child, approval is the key that unlocks the Child Disability Benefit, the RDSP grants and bonds, and BC's new disability supplement.","amount":"2025 federal disability amount: $10,138, plus a supplement of up to $5,914 for a person under 18 at year-end (CRA, checked 2026-10-14).","who":["Child (or adult) has a severe and prolonged impairment in physical or mental functions","A medical practitioner certifies it on Form T2201"],"steps":["Ask your child's doctor, nurse practitioner, psychologist or speech-language pathologist to complete Form T2201 (the CRA has a digital version)","Send it to the CRA using the digital DTC application form or by mail (not through “submit documents”), any time of year","Wait for the CRA's notice of determination","File your taxes every year, even with zero income"],"docs":["Form T2201 (medical part completed by practitioner)","Your SIN and child's info"],"links":[["CRA: Disability tax credit","https://www.canada.ca/en/revenue-agency/services/tax/individuals/segments/tax-credits-deductions-persons-disabilities/disability-tax-credit.html"],["CRA: Line 31600 disability amount","https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/about-your-tax-return/tax-return/completing-a-tax-return/deductions-credits-expenses/line-31600-disability-amount-self.html"]]},
-{"slug":"child-disability-benefit","name":"Child Disability Benefit (CDB)","gov":"Federal (CRA)","what":"A tax-free monthly payment for families caring for a child under 18 who is approved for the DTC. It is paid with the Canada Child Benefit.","amount":"July 2026–June 2027: up to $3,480/year ($290.00/month) per child; reduced when adjusted family net income is over $82,847 (CRA, checked 2026-10-14).","who":["You get (or are eligible for) the Canada Child Benefit","Your child is approved for the DTC"],"steps":["Get the DTC approved","If you already get the CCB, the CDB starts automatically; CRA back-pays up to the current and two previous benefit years","File taxes every year (both partners)"],"docs":["DTC approval","Up-to-date tax filing"],"links":[["CRA: Child disability benefit","https://www.canada.ca/en/revenue-agency/services/child-family-benefits/child-disability-benefit.html"]]},
-{"slug":"rdsp","name":"RDSP, Canada Disability Savings Grant & Bond","gov":"Federal (ESDC)","what":"A long-term savings plan for a person approved for the DTC. The government adds matching grants, and low-income families can get the bond without putting in any money.","amount":"Grant: up to $3,500/year, $70,000 lifetime. Bond: up to $1,000/year, $20,000 lifetime, no contribution needed; full bond for 2026 if adjusted family net income is $38,237 or less. When opening a plan you may get up to $11,000 in back bond (canada.ca, checked 2026-10-14).","who":["Beneficiary is DTC-approved","Canadian resident with a SIN","Under 60 to open"],"steps":["Get DTC approval","Open an RDSP at a bank or credit union that offers them","Ask them to apply for the grant and bond","Keep filing taxes so the bond keeps coming"],"docs":["SIN for the child and the holder (parent)","DTC approval","ID"],"links":[["Canada.ca: RDSP","https://www.canada.ca/en/employment-social-development/programs/disability/savings.html"],["Canada.ca: How much you could get","https://www.canada.ca/en/employment-social-development/programs/disability/savings/how-much.html"],["CRA RC4460 RDSP guide","https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4460/registered-disability-savings-plan.html"]]},
-{"slug":"autism-funding","name":"BC Autism Funding (under 6 / 6–18)","gov":"BC (Ministry of Children and Family Development)","what":"Funding to pay for autism therapy and supports. IMPORTANT: this program is ending March 31, 2027 and is being replaced by the needs-based BC Children and Youth Disability Benefit and an income-tested Disability Supplement. New applications are open until March 2027.","amount":"Under 6: up to $22,000/year per child (RASP professionals, supervised interventionists, family counselling). Ages 6–18: up to $6,000/year per child; up to 20% can go to training, travel and equipment. New Disability Benefit: $6,500 or up to $17,000/year by need; Disability Supplement: up to $6,000/year by income, first payments July 2027 (gov.bc.ca, checked 2026-10-14).","who":["BC resident child under 19 with an autism diagnosis from a qualified assessment","For the new Disability Benefit: based on support needs, any diagnosis"],"steps":["Get a diagnosis (public BC Autism Assessment Network or private)","Submit the Autism Funding application and diagnosis to MCFD","Choose providers from the Registry of Autism Service Providers (RASP)","Watch for a ministry letter about moving to the Disability Benefit"],"docs":["Diagnosis/assessment report","Child's BC Services Card / MSP","Proof of BC residency"],"links":[["gov.bc.ca: How much funding is available","https://www2.gov.bc.ca/gov/content/health/managing-your-health/child-behaviour-development/support-needs/autism-spectrum-disorder/autism-funding/funding-amount"],["gov.bc.ca: Financial supports for children with support needs","https://www2.gov.bc.ca/gov/content/health/managing-your-health/child-behaviour-development/support-needs/financial-supports"],["gov.bc.ca: FAQ for families","https://www2.gov.bc.ca/gov/content/health/managing-your-health/child-behaviour-development/support-needs/faq-families-eligible-for-autism-funding"],["Parent's Handbook (PDF, Apr 2026)","https://www2.gov.bc.ca/assets/gov/health/managing-your-health/autism/10690_parents_autism_guide_web_final_-_april_23_2026_1.pdf"]]},
-{"slug":"at-home-program","name":"At Home Program (Medical Benefits)","gov":"BC (MCFD)","what":"Medical equipment, supplies, orthotics, audiology, dental/optical, therapies and disability-related medical transportation for children with significant daily-living needs, plus PharmaCare Plan F. (The SAET part is moving to the new Disability Benefit; Medical Benefits remain.)","amount":"Items are pre-approved and paid directly; no fixed dollar amount.","who":["Age 0–17 (benefits until the end of the month they turn 18)","BC resident on MSP, living at home with a parent/guardian","Assessed dependent in 3 of 4: eating, dressing, toileting, washing (under 3: physician attestation)"],"steps":["Talk to your child's doctor or therapist","Complete the application (form CF2160) with an assessment (Vineland-3, PEDI-CAT or GMFCS)","A regional committee decides; you get a letter","Pilot areas (Prince Rupert/Haida Gwaii, Smithers, Terrace, Kelowna) apply through a Family Connections Centre"],"docs":["Application CF2160","Functional assessment","ID and proof of residency"],"links":[["gov.bc.ca: Eligibility and application","https://www2.gov.bc.ca/gov/content/health/managing-your-health/child-behaviour-development/support-needs/complex-health-needs/at-home-program/at-home-program-eligibility"],["gov.bc.ca: Medical benefits","https://www2.gov.bc.ca/gov/content/health/managing-your-health/child-behaviour-development/support-needs/complex-health-needs/at-home-program/medical-benefits"],["At Home Program Guide (PDF)","https://www2.gov.bc.ca/assets/gov/family-and-social-supports/children-teens-with-support-needs/at_home_program_guide.pdf"]]},
-{"slug":"jordans-principle","name":"Jordan's Principle","gov":"Federal (Indigenous Services Canada)","what":"Makes sure First Nations children can get the health, social and educational products, services and supports they need, on or off reserve, without delays over who pays.","amount":"Case by case; no fixed amount.","who":["First Nations child (under the age of majority) in Canada, as defined by ISC's eligibility criteria","On or off reserve"],"steps":["Call 1-855-JP-CHILD (1-855-572-4453), 24/7, or contact the BC regional focal point / a service coordinator","Get a letter of support from a health or education professional, Elder or Knowledge Keeper","Submit with consent and a cost breakdown","Urgent requests (safety, no food, fleeing violence, etc.): call the line directly","If denied, you can appeal"],"docs":["Proof of eligibility","Letter of support linking the request to the child's need","Parent/guardian consent","Quotes/cost breakdown, assessments"],"links":[["ISC: Jordan's Principle","https://www.sac-isc.gc.ca/eng/1568396042341/1568396159824"],["ISC: Submit a request","https://www.sac-isc.gc.ca/eng/1568396296543/1582657596387"],["ISC: Documents needed","https://www.sac-isc.gc.ca/eng/1620743040769/1620743088435"],["Jordan's Principle Hub BC","https://jordansprinciplehubbc.ca/submitting-requests-in-bc/"]]},
-{"slug":"first-nations-supports","name":"First Nations on- and off-reserve supports","gov":"Federal (ISC) / BC / Nations","what":"On reserve, income assistance and assisted living come from ISC through your band office. Off reserve, First Nations families use BC programs (like PWD and income assistance) plus Jordan's Principle, FNHA health benefits, and Indigenous housing providers.","amount":"Varies.","who":["On-reserve residents in financial need (On-reserve Income Assistance)","On-reserve people with disabilities or chronic illness needing non-medical care (Assisted Living)"],"steps":["On reserve: start with your band office social development worker","Off reserve: apply to BC programs through My Self Serve; contact a Friendship Centre or BCANDS for help","Use Jordan's Principle for your child's unmet needs"],"docs":["Status card (if applicable)","ID, proof of residence and income"],"links":[["ISC: On-reserve Income Assistance","https://www.sac-isc.gc.ca/eng/1100100035256/1533307528663"],["ISC: Assisted Living Program","https://www.isc.gc.ca/eng/1100100035250/1533317440443"],["First Nations Health Authority","https://www.fnha.ca/"]]},
-{"slug":"pwd-designation","name":"BC Persons with Disabilities (PWD) designation","gov":"BC (Ministry of Social Development and Poverty Reduction)","what":"The designation that gives an adult disability assistance (higher rates and asset limits, transportation support, health supplements). It's for adults, so for a child, plan ahead: start at 17½.","amount":"See current BC assistance rate tables on gov.bc.ca.","who":["18 or older (can apply from 17½)","Severe physical or mental impairment expected to last 2+ years","Significantly restricted in daily living activities and needs help","Financially eligible (income and asset test)"],"steps":["Apply for assistance on My Self Serve (or skip if already on assistance)","Ask for the PWD application (HR2883)","Have your doctor/nurse practitioner and an assessor complete their sections","Submit; if denied you can request reconsideration (Disability Alliance BC can help)"],"docs":["PWD application HR2883","ID, SIN, bank and income info"],"links":[["gov.bc.ca: PWD designation application","https://www2.gov.bc.ca/gov/content/governments/policies-for-government/bcea-policy-and-procedure-manual/pwd-designation-and-application/designation-application"],["gov.bc.ca: Eligibility assessment","https://www2.gov.bc.ca/gov/content/governments/policies-for-government/bcea-policy-and-procedure-manual/application-and-intake/eligibility-assessment"]]},
-{"slug":"crisis-supplements","name":"Crisis supplements & other assistance supplements","gov":"BC (SDPR)","what":"If you're on income, disability or hardship assistance and face an unexpected emergency need affecting health or safety (food, shelter, clothing), you may get a crisis supplement. There are also security deposit help, Housing Stability Supplement and health supplements.","amount":"Set by BC policy; check the supplements page.","who":["Family receiving BC income, disability or hardship assistance","Unexpected expense or item you can't otherwise get, where not having it risks health or safety"],"steps":["Contact the ministry (through My Self Serve, by phone, or at an office) as soon as the emergency happens","Explain the need and why you have no other resources","If denied, you can ask for reconsideration"],"docs":["Receipts, notices, quotes about the emergency"],"links":[["gov.bc.ca: Supplements for people on assistance","https://www2.gov.bc.ca/gov/content/family-social-supports/income-assistance/on-assistance/supplements"],["BCEA policy: Crisis supplement","https://www2.gov.bc.ca/gov/content/governments/policies-for-government/bcea-policy-and-procedure-manual/general-supplements-and-programs/crisis-supplement"]]},
-{"slug":"rental-assistance","name":"BC Housing Rental Assistance Program (RAP)","gov":"BC Housing","what":"Monthly help with rent in the private market for low-income working families. Not available at the same time as income or disability assistance (both are shelter subsidies).","amount":"Depends on income, rent and family size.","who":["Household income $60,000 or less (before tax)","At least one dependent child","Not receiving BC income or disability assistance (exception: Medical Services Only)"],"steps":["Check eligibility on BC Housing's RAP page","Apply online or by paper with income and rent proof","Reapply every year"],"docs":["Tax notices of assessment","Rent proof"],"links":[["BC Housing: RAP","https://www.bchousing.org/housing-assistance/rental-assistance-programs/RAP"]]},
-{"slug":"ccb-bc-family-benefit","name":"Canada Child Benefit & BC Family Benefit","gov":"Federal (CRA) + BC","what":"Tax-free monthly payments for families with children under 18, both based on your tax return. Neither is counted as income for BC assistance.","amount":"CCB July 2026–June 2027: up to $8,157/year per child under 6 ($679.75/month); see CRA for 6–17. BC Family Benefit July 2026–June 2027: up to $1,750 first child, $1,100 second, $900 each additional (checked 2026-10-14).","who":["Live with and care for a child under 18","Resident of Canada (and BC for the Family Benefit)","You and your partner file taxes"],"steps":["Apply for the CCB at birth registration, or through CRA My Account","The BC Family Benefit comes automatically with the CCB","File taxes every year, even with no income"],"docs":["Child's birth registration","Tax returns"],"links":[["CRA: Canada Child Benefit (T4114)","https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4114/canada-child-benefit.html"],["gov.bc.ca: BC Family Benefit","https://www2.gov.bc.ca/gov/content/family-social-supports/affordability/family-benefit"]]}
+ {
+  "slug": "disability-tax-credit",
+  "name": "Disability Tax Credit (DTC)",
+  "gov": "Federal (CRA)",
+  "what": "A non-refundable tax credit for people with a severe and prolonged impairment. For a child, approval is the key that unlocks the Child Disability Benefit, the RDSP grants and bonds, and BC's new disability supplement.",
+  "amount": "2025 federal disability amount: $10,138, plus a supplement of up to $5,914 for a person under 18 at year-end (CRA, checked 2026-10-14).",
+  "who": [
+   "Child (or adult) has a severe and prolonged impairment in physical or mental functions",
+   "A medical practitioner certifies it on Form T2201"
+  ],
+  "steps": [
+   "Ask your child's doctor, nurse practitioner, psychologist or speech-language pathologist to complete Form T2201 (the CRA has a digital version)",
+   "Send it to the CRA using the digital DTC application form or by mail (not through “submit documents”), any time of year",
+   "Wait for the CRA's notice of determination",
+   "File your taxes every year, even with zero income"
+  ],
+  "docs": [
+   "Form T2201 (medical part completed by practitioner)",
+   "Your SIN and child's info"
+  ],
+  "links": [
+   [
+    "Our DTC Playbook: step-by-step, prep sheet, fees, MP help, back pay",
+    "dtc/index.html"
+   ],
+   [
+    "CRA: Disability tax credit",
+    "https://www.canada.ca/en/revenue-agency/services/tax/individuals/segments/tax-credits-deductions-persons-disabilities/disability-tax-credit.html"
+   ],
+   [
+    "CRA: Line 31600 disability amount",
+    "https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/about-your-tax-return/tax-return/completing-a-tax-return/deductions-credits-expenses/line-31600-disability-amount-self.html"
+   ]
+  ]
+ },
+ {
+  "slug": "child-disability-benefit",
+  "name": "Child Disability Benefit (CDB)",
+  "gov": "Federal (CRA)",
+  "what": "A tax-free monthly payment for families caring for a child under 18 who is approved for the DTC. It is paid with the Canada Child Benefit.",
+  "amount": "July 2026–June 2027: up to $3,480/year ($290.00/month) per child; reduced when adjusted family net income is over $82,847 (CRA, checked 2026-10-14).",
+  "who": [
+   "You get (or are eligible for) the Canada Child Benefit",
+   "Your child is approved for the DTC"
+  ],
+  "steps": [
+   "Get the DTC approved",
+   "If you already get the CCB, the CDB starts automatically; CRA back-pays up to the current and two previous benefit years",
+   "File taxes every year (both partners)"
+  ],
+  "docs": [
+   "DTC approval",
+   "Up-to-date tax filing"
+  ],
+  "links": [
+   [
+    "CRA: Child disability benefit",
+    "https://www.canada.ca/en/revenue-agency/services/child-family-benefits/child-disability-benefit.html"
+   ]
+  ]
+ },
+ {
+  "slug": "rdsp",
+  "name": "RDSP, Canada Disability Savings Grant & Bond",
+  "gov": "Federal (ESDC)",
+  "what": "A long-term savings plan for a person approved for the DTC. The government adds matching grants, and low-income families can get the bond without putting in any money.",
+  "amount": "Grant: up to $3,500/year, $70,000 lifetime. Bond: up to $1,000/year, $20,000 lifetime, no contribution needed; full bond for 2026 if adjusted family net income is $38,237 or less. When opening a plan you may get up to $11,000 in back bond (canada.ca, checked 2026-10-14).",
+  "who": [
+   "Beneficiary is DTC-approved",
+   "Canadian resident with a SIN",
+   "Under 60 to open"
+  ],
+  "steps": [
+   "Get DTC approval",
+   "Open an RDSP at a bank or credit union that offers them",
+   "Ask them to apply for the grant and bond",
+   "Keep filing taxes so the bond keeps coming"
+  ],
+  "docs": [
+   "SIN for the child and the holder (parent)",
+   "DTC approval",
+   "ID"
+  ],
+  "links": [
+   [
+    "Canada.ca: RDSP",
+    "https://www.canada.ca/en/employment-social-development/programs/disability/savings.html"
+   ],
+   [
+    "Canada.ca: How much you could get",
+    "https://www.canada.ca/en/employment-social-development/programs/disability/savings/how-much.html"
+   ],
+   [
+    "CRA RC4460 RDSP guide",
+    "https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4460/registered-disability-savings-plan.html"
+   ]
+  ]
+ },
+ {
+  "slug": "autism-funding",
+  "name": "BC Autism Funding (under 6 / 6–18)",
+  "gov": "BC (Ministry of Children and Family Development)",
+  "what": "Funding to pay for autism therapy and supports. IMPORTANT: this program is ending March 31, 2027 and is being replaced by the needs-based BC Children and Youth Disability Benefit and an income-tested Disability Supplement. New applications are open until March 2027.",
+  "amount": "Under 6: up to $22,000/year per child (RASP professionals, supervised interventionists, family counselling). Ages 6–18: up to $6,000/year per child; up to 20% can go to training, travel and equipment. New Disability Benefit: $6,500 or up to $17,000/year by need; Disability Supplement: up to $6,000/year by income, first payments July 2027 (gov.bc.ca, checked 2026-10-14).",
+  "who": [
+   "BC resident child under 19 with an autism diagnosis from a qualified assessment",
+   "For the new Disability Benefit: based on support needs, any diagnosis"
+  ],
+  "steps": [
+   "Get a diagnosis (public BC Autism Assessment Network or private)",
+   "Submit the Autism Funding application and diagnosis to MCFD",
+   "Choose providers from the Registry of Autism Service Providers (RASP)",
+   "Watch for a ministry letter about moving to the Disability Benefit"
+  ],
+  "docs": [
+   "Diagnosis/assessment report",
+   "Child's BC Services Card / MSP",
+   "Proof of BC residency"
+  ],
+  "links": [
+   [
+    "gov.bc.ca: How much funding is available",
+    "https://www2.gov.bc.ca/gov/content/health/managing-your-health/child-behaviour-development/support-needs/autism-spectrum-disorder/autism-funding/funding-amount"
+   ],
+   [
+    "gov.bc.ca: Financial supports for children with support needs",
+    "https://www2.gov.bc.ca/gov/content/health/managing-your-health/child-behaviour-development/support-needs/financial-supports"
+   ],
+   [
+    "gov.bc.ca: FAQ for families",
+    "https://www2.gov.bc.ca/gov/content/health/managing-your-health/child-behaviour-development/support-needs/faq-families-eligible-for-autism-funding"
+   ],
+   [
+    "Parent's Handbook (PDF, Apr 2026)",
+    "https://www2.gov.bc.ca/assets/gov/health/managing-your-health/autism/10690_parents_autism_guide_web_final_-_april_23_2026_1.pdf"
+   ]
+  ]
+ },
+ {
+  "slug": "at-home-program",
+  "name": "At Home Program (Medical Benefits)",
+  "gov": "BC (MCFD)",
+  "what": "Medical equipment, supplies, orthotics, audiology, dental/optical, therapies and disability-related medical transportation for children with significant daily-living needs, plus PharmaCare Plan F. (The SAET part is moving to the new Disability Benefit; Medical Benefits remain.)",
+  "amount": "Items are pre-approved and paid directly; no fixed dollar amount.",
+  "who": [
+   "Age 0–17 (benefits until the end of the month they turn 18)",
+   "BC resident on MSP, living at home with a parent/guardian",
+   "Assessed dependent in 3 of 4: eating, dressing, toileting, washing (under 3: physician attestation)"
+  ],
+  "steps": [
+   "Talk to your child's doctor or therapist",
+   "Complete the application (form CF2160) with an assessment (Vineland-3, PEDI-CAT or GMFCS)",
+   "A regional committee decides; you get a letter",
+   "Pilot areas (Prince Rupert/Haida Gwaii, Smithers, Terrace, Kelowna) apply through a Family Connections Centre"
+  ],
+  "docs": [
+   "Application CF2160",
+   "Functional assessment",
+   "ID and proof of residency"
+  ],
+  "links": [
+   [
+    "gov.bc.ca: Eligibility and application",
+    "https://www2.gov.bc.ca/gov/content/health/managing-your-health/child-behaviour-development/support-needs/complex-health-needs/at-home-program/at-home-program-eligibility"
+   ],
+   [
+    "gov.bc.ca: Medical benefits",
+    "https://www2.gov.bc.ca/gov/content/health/managing-your-health/child-behaviour-development/support-needs/complex-health-needs/at-home-program/medical-benefits"
+   ],
+   [
+    "At Home Program Guide (PDF)",
+    "https://www2.gov.bc.ca/assets/gov/family-and-social-supports/children-teens-with-support-needs/at_home_program_guide.pdf"
+   ]
+  ]
+ },
+ {
+  "slug": "jordans-principle",
+  "name": "Jordan's Principle",
+  "gov": "Federal (Indigenous Services Canada)",
+  "what": "Makes sure First Nations children can get the health, social and educational products, services and supports they need, on or off reserve, without delays over who pays.",
+  "amount": "Case by case; no fixed amount.",
+  "who": [
+   "First Nations child (under the age of majority) in Canada, as defined by ISC's eligibility criteria",
+   "On or off reserve"
+  ],
+  "steps": [
+   "Call 1-855-JP-CHILD (1-855-572-4453), 24/7, or contact the BC regional focal point / a service coordinator",
+   "Get a letter of support from a health or education professional, Elder or Knowledge Keeper",
+   "Submit with consent and a cost breakdown",
+   "Urgent requests (safety, no food, fleeing violence, etc.): call the line directly",
+   "If denied, you can appeal"
+  ],
+  "docs": [
+   "Proof of eligibility",
+   "Letter of support linking the request to the child's need",
+   "Parent/guardian consent",
+   "Quotes/cost breakdown, assessments"
+  ],
+  "links": [
+   [
+    "ISC: Jordan's Principle",
+    "https://www.sac-isc.gc.ca/eng/1568396042341/1568396159824"
+   ],
+   [
+    "ISC: Submit a request",
+    "https://www.sac-isc.gc.ca/eng/1568396296543/1582657596387"
+   ],
+   [
+    "ISC: Documents needed",
+    "https://www.sac-isc.gc.ca/eng/1620743040769/1620743088435"
+   ],
+   [
+    "Jordan's Principle Hub BC",
+    "https://jordansprinciplehubbc.ca/submitting-requests-in-bc/"
+   ]
+  ]
+ },
+ {
+  "slug": "first-nations-supports",
+  "name": "First Nations on- and off-reserve supports",
+  "gov": "Federal (ISC) / BC / Nations",
+  "what": "On reserve, income assistance and assisted living come from ISC through your band office. Off reserve, First Nations families use BC programs (like PWD and income assistance) plus Jordan's Principle, FNHA health benefits, and Indigenous housing providers.",
+  "amount": "Varies.",
+  "who": [
+   "On-reserve residents in financial need (On-reserve Income Assistance)",
+   "On-reserve people with disabilities or chronic illness needing non-medical care (Assisted Living)"
+  ],
+  "steps": [
+   "On reserve: start with your band office social development worker",
+   "Off reserve: apply to BC programs through My Self Serve; contact a Friendship Centre or BCANDS for help",
+   "Use Jordan's Principle for your child's unmet needs"
+  ],
+  "docs": [
+   "Status card (if applicable)",
+   "ID, proof of residence and income"
+  ],
+  "links": [
+   [
+    "ISC: On-reserve Income Assistance",
+    "https://www.sac-isc.gc.ca/eng/1100100035256/1533307528663"
+   ],
+   [
+    "ISC: Assisted Living Program",
+    "https://www.isc.gc.ca/eng/1100100035250/1533317440443"
+   ],
+   [
+    "First Nations Health Authority",
+    "https://www.fnha.ca/"
+   ]
+  ]
+ },
+ {
+  "slug": "pwd-designation",
+  "name": "BC Persons with Disabilities (PWD) designation",
+  "gov": "BC (Ministry of Social Development and Poverty Reduction)",
+  "what": "The designation that gives an adult disability assistance (higher rates and asset limits, transportation support, health supplements). It's for adults, so for a child, plan ahead: start at 17½.",
+  "amount": "See current BC assistance rate tables on gov.bc.ca.",
+  "who": [
+   "18 or older (can apply from 17½)",
+   "Severe physical or mental impairment expected to last 2+ years",
+   "Significantly restricted in daily living activities and needs help",
+   "Financially eligible (income and asset test)"
+  ],
+  "steps": [
+   "Apply for assistance on My Self Serve (or skip if already on assistance)",
+   "Ask for the PWD application (HR2883)",
+   "Have your doctor/nurse practitioner and an assessor complete their sections",
+   "Submit; if denied you can request reconsideration (Disability Alliance BC can help)"
+  ],
+  "docs": [
+   "PWD application HR2883",
+   "ID, SIN, bank and income info"
+  ],
+  "links": [
+   [
+    "gov.bc.ca: PWD designation application",
+    "https://www2.gov.bc.ca/gov/content/governments/policies-for-government/bcea-policy-and-procedure-manual/pwd-designation-and-application/designation-application"
+   ],
+   [
+    "gov.bc.ca: Eligibility assessment",
+    "https://www2.gov.bc.ca/gov/content/governments/policies-for-government/bcea-policy-and-procedure-manual/application-and-intake/eligibility-assessment"
+   ]
+  ]
+ },
+ {
+  "slug": "crisis-supplements",
+  "name": "Crisis supplements & other assistance supplements",
+  "gov": "BC (SDPR)",
+  "what": "If you're on income, disability or hardship assistance and face an unexpected emergency need affecting health or safety (food, shelter, clothing), you may get a crisis supplement. There are also security deposit help, Housing Stability Supplement and health supplements.",
+  "amount": "Set by BC policy; check the supplements page.",
+  "who": [
+   "Family receiving BC income, disability or hardship assistance",
+   "Unexpected expense or item you can't otherwise get, where not having it risks health or safety"
+  ],
+  "steps": [
+   "Contact the ministry (through My Self Serve, by phone, or at an office) as soon as the emergency happens",
+   "Explain the need and why you have no other resources",
+   "If denied, you can ask for reconsideration"
+  ],
+  "docs": [
+   "Receipts, notices, quotes about the emergency"
+  ],
+  "links": [
+   [
+    "gov.bc.ca: Supplements for people on assistance",
+    "https://www2.gov.bc.ca/gov/content/family-social-supports/income-assistance/on-assistance/supplements"
+   ],
+   [
+    "BCEA policy: Crisis supplement",
+    "https://www2.gov.bc.ca/gov/content/governments/policies-for-government/bcea-policy-and-procedure-manual/general-supplements-and-programs/crisis-supplement"
+   ]
+  ]
+ },
+ {
+  "slug": "rental-assistance",
+  "name": "BC Housing Rental Assistance Program (RAP)",
+  "gov": "BC Housing",
+  "what": "Monthly help with rent in the private market for low-income working families. Not available at the same time as income or disability assistance (both are shelter subsidies).",
+  "amount": "Depends on income, rent and family size.",
+  "who": [
+   "Household income $60,000 or less (before tax)",
+   "At least one dependent child",
+   "Not receiving BC income or disability assistance (exception: Medical Services Only)"
+  ],
+  "steps": [
+   "Check eligibility on BC Housing's RAP page",
+   "Apply online or by paper with income and rent proof",
+   "Reapply every year"
+  ],
+  "docs": [
+   "Tax notices of assessment",
+   "Rent proof"
+  ],
+  "links": [
+   [
+    "BC Housing: RAP",
+    "https://www.bchousing.org/housing-assistance/rental-assistance-programs/RAP"
+   ]
+  ]
+ },
+ {
+  "slug": "ccb-bc-family-benefit",
+  "name": "Canada Child Benefit & BC Family Benefit",
+  "gov": "Federal (CRA) + BC",
+  "what": "Tax-free monthly payments for families with children under 18, both based on your tax return. Neither is counted as income for BC assistance.",
+  "amount": "CCB July 2026–June 2027: up to $8,157/year per child under 6 ($679.75/month); see CRA for 6–17. BC Family Benefit July 2026–June 2027: up to $1,750 first child, $1,100 second, $900 each additional (checked 2026-10-14).",
+  "who": [
+   "Live with and care for a child under 18",
+   "Resident of Canada (and BC for the Family Benefit)",
+   "You and your partner file taxes"
+  ],
+  "steps": [
+   "Apply for the CCB at birth registration, or through CRA My Account",
+   "The BC Family Benefit comes automatically with the CCB",
+   "File taxes every year, even with no income"
+  ],
+  "docs": [
+   "Child's birth registration",
+   "Tax returns"
+  ],
+  "links": [
+   [
+    "CRA: Canada Child Benefit (T4114)",
+    "https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4114/canada-child-benefit.html"
+   ],
+   [
+    "gov.bc.ca: BC Family Benefit",
+    "https://www2.gov.bc.ca/gov/content/family-social-supports/affordability/family-benefit"
+   ]
+  ]
+ }
 ]
