@@ -14,7 +14,7 @@ def wrap(d,text,f,maxw):
         if d.textlength(t,font=f)<=maxw: cur=t
         else: lines.append(cur);cur=w
     lines.append(cur);return lines
-def make(fn,kicker,title,sub,accent=(224,179,84)):
+def make(fn,kicker,title,sub,accent=(185,211,193)):
     bg=Image.open('src/img/cheam-og.jpg').convert('RGB')
     ov=Image.new('RGBA',(1200,630));od=ImageDraw.Draw(ov)
     for y in range(630):
@@ -28,7 +28,7 @@ def make(fn,kicker,title,sub,accent=(224,179,84)):
     for ln in wrap(d,title,tf,1020): d.text((76,y),ln,font=tf,fill=(255,255,255));y+=86
     sf=font(34,400);y+=14
     for ln in wrap(d,sub,sf,1000): d.text((80,y),ln,font=sf,fill=(226,236,228));y+=46
-    bf=font(28,600);label='Family Funding & Tools · Free · No login'
+    bf=font(28,600);label='Family Funding & Tools · Free · Not a government site'
     d.rounded_rectangle((76,510,76+d.textlength(label,font=bf)+56,564),radius=27,fill=accent)
     d.text((104,518),label,font=bf,fill=(15,31,23))
     mf=font(24,600);m='Made in Chilliwack, BC'
@@ -36,7 +36,7 @@ def make(fn,kicker,title,sub,accent=(224,179,84)):
     # simple flag mark: red-white-red bars with red square leaf stand-in omitted; text only + red bars
     d.text((x0,522),m,font=mf,fill=(238,243,238))
     im.save('src/og/'+fn,optimize=True)
-make('og-home.png','For BC parents of kids with disabilities','Your child may qualify for thousands in support.','Find out in 2 minutes. Plain language, from a BC dad of a non-verbal son.')
-make('og-quiz.png','Free 2-minute quiz','What can your family get?','8 quick questions. A personal checklist of BC and federal programs.')
-make('og-2027.png','Heads up, BC parents','BC Autism Funding ends March 31, 2027.','Here\'s what replaces it, and what to do now.')
+make('og-home.png','For Canadian parents of kids with disabilities','Funding and support, in plain language.','Simple guides for every province, with links to the official government pages.')
+make('og-quiz.png','Free 2-minute checklist','Find programs for your child.','9 quick questions. A checklist of federal and provincial programs. Answers stay on your device.')
+make('og-2027.png','For BC parents','BC Autism Funding ends March 31, 2027.','Here\'s what replaces it, and what to do now.')
 make('og-dtc.png','The DTC Playbook','The Disability Tax Credit, step by step.','Doctor prep sheet, fees, MP help, and how to claim up to 10 years back.')
