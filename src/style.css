@@ -131,6 +131,7 @@ h1{font-size:clamp(2rem,4.6vw,2.9rem);line-height:1.15}h2{font-size:clamp(1.35re
 .notice .label{font-size:.8rem;color:var(--mut);font-weight:600;text-transform:uppercase;letter-spacing:.06em}.notice h2{margin:.25rem 0 .3rem;font-size:1.35rem}.notice p{margin:0;color:var(--mut)}.notice .more-link{color:var(--link);font-weight:600;white-space:nowrap}
 .badge{background:transparent;border:1px solid var(--line);color:var(--mut);font-weight:600;border-radius:6px}.badge.warn{background:transparent;color:var(--mut);border-color:#6a947d}
 .badge.own{color:#e9dfc6;border-color:#7d7259}
+a.badge{text-decoration:none;color:inherit}a.badge:hover,a.badge:focus{color:#d5f3e0;border-color:#8fb89a;outline:none}
 .card.pinned{border-color:#6a947d;box-shadow:var(--sh)}
 .tile:hover,.card:hover{transform:none;border-color:#6a947d}
 .tile h2{font-size:1.25rem}

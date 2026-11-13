@@ -30,7 +30,7 @@ def build(page,E,SITE,FUNDING_SLUGS):
             progs.append(dict(slug=p['slug'],nickname=p.get('nickname') or p['name'],name=p['name'],cat=p.get('category',''),what=short(p['what']),amount=a,amount_short=short(a,120) if v else a,verified=v,url=url))
         out[c]=dict(name=d['province'],checked=d['last_checked'],programs=progs)
     def ul(xs): return '<ul>'+''.join(f'<li>{E(x)}</li>' for x in xs)+'</ul>' if xs else ''
-    fed=[('disability-tax-credit','Disability Tax Credit (DTC)','The key that opens most other help.'),('child-disability-benefit','Child Disability Benefit','Up to $3,480 a year per child, paid monthly once the DTC is approved.'),('rdsp','RDSP grant and bond','Government grants and bonds added to a savings plan for your child.'),('ccb-bc-family-benefit','Canada Child Benefit','Monthly money for kids under 18. Up to $8,157 a year per child under 6.'),('jordans-principle',"Jordan’s Principle","Help for First Nations kids, on or off reserve.")]
+    fed=[('disability-tax-credit','Disability Tax Credit (DTC)','The key that opens most other help.'),('child-disability-benefit','Child Disability Benefit','Up to $3,480 a year per child, paid monthly once the DTC is approved.'),('rdsp','RDSP grant and bond','Government grants and bonds added to a savings plan for your child.'),('ccb-bc-family-benefit','Canada Child Benefit','Monthly money for kids under 18. Up to $8,157 a year per child under 6, or $6,883 a year for ages 6 to 17.'),('jordans-principle',"Jordan’s Principle","Help for First Nations kids, on or off reserve.")]
     sel=''.join(f'<option value="{c}">{E(out[c]["name"])}</option>' for c in ORDER)
     for c in ORDER:
         d=D[c]; o=out[c]; name=o['name']

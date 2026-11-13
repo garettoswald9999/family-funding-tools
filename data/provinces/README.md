@@ -1,19 +1,19 @@
-# Province and territory program data (research draft, checked 2026-10-17)
+# Province and territory program data (checked 2026-11-13)
 
 One file for each province or territory (`<code>.json`). Each file has `code`, `province`, `last_checked`, `federal_note`, and `programs[]`.
 Programs use the same fields as `data/programs.json` (slug, name, gov, what, amount, who, steps, docs, links), plus: `nickname` (plain name), `category`, `amount_verified`, `plain_language`, `last_checked`.
 Federal programs (DTC, CDB, RDSP, CCB) are kept in programs.json and not copied here. Jordan's Principle is in every file. Inuit Child First is in NL, NT, NU and YT.
 Text is written at about a grade 6 reading level.
 
-## Amounts checked on official pages (2026-10-17)
+## Amounts checked on official pages (2026-11-13)
 - ON OAP: $6,600 to $65,000 a year. ON ACSD: $25 to $678 a month (from July 1, 2026).
 - QC SEH: $241 a month ($2,892 a year). QC SEHNSE: $14,580 a year (Tier 1) or $9,696 a year (Tier 2).
-- SK ASD-IF: up to $8,000 a year (under 6) or $6,000 a year (ages 6 to 11). SK CDS: up to $15,120 a year (from a FAQ PDF; publication date not confirmed).
+- SK ASD-IF: up to $8,000 a year (under 6) or $6,000 a year (ages 6 to 11). SK CDS: no fixed amount on the official page (previous $15,120 figure removed).
 - AB ADAP: $1,740 a month. AB AISH: $1,940 a month (from July 2, 2026).
-- NS DFSC: up to $4,800 a month in total ($2,800 respite plus $2,000 enhanced).
+- NS DFSC: up to $2,800 a month respite (incl. exceptional circumstances), or $4,800 a month combined with enhanced respite (policy updated February 2026).
 
 ## Not verified / gaps
-- MB MSPD amounts come from a non-government site. They are marked as NOT verified.
+- MB MSPD: official page does not publish a dollar amount. Previous unverified figures were removed.
 - PEI autism funding is based on hours (20 to 25 hours a week). No dollar maximum was found.
 - No dollar amounts were found for: AB FSCD, AB AADL, MB CDS, MB Rent Assist, NB family supports, NL SCWA, ON SSAH, PE AccessAbility, YT, NT or NU.
 - The income support rate for each province was not collected, except AB.

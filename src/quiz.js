@@ -1,4 +1,4 @@
-// Amounts: verified on official sources 2026-10-14 (see funding pages). "Up to" maximums only.
+// Amounts: verified on official sources 2026-11-13 (see funding pages). "Up to" maximums only.
 function buildChecklist(a,pd){var o=[];function add(t,u,w,amt){o.push({t:t,u:u,w:w,amt:amt||0,prog:(u.indexOf('funding/')===0||u.indexOf('provinces/')===0)&&u!=='funding/dtc/back-pay.html'})}
 var pv=(a.prov||'bc').toLowerCase();if(pv!=='bc')return buildOther(a,pv,pd,o,add);
 if(a.dtc!=='y')add('Apply for the Disability Tax Credit (Form T2201): open the DTC Playbook','funding/dtc/index.html','It opens the door to the Child Disability Benefit, RDSP grants and bonds, and BC\'s new supplement. You may be able to claim up to 10 years back.');
